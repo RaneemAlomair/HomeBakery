@@ -47,13 +47,11 @@ HomeBakery is a mobile application designed for individuals who want to learn ba
 
  ## 🚀 Implementation & Methodology
 
-1. 🎨 Design Phase: Created UI wireframes and planned API endpoints.
+1.  Design Phase: Created UI wireframes and planned API endpoints.
 
-2. 💻 Development Phase: Implemented SwiftUI interfaces and integrated API calls.
+2.  Development Phase: Implemented SwiftUI interfaces and integrated API calls.
 
-3. 🛠 Testing Phase: Used Postman for API validation and tested the app on iOS simulators.
-
-4. 📦 Deployment: Optimized for performance and prepared for App Store release.
+3. 🛠Testing Phase: Used Postman for API validation and tested the app on iOS simulators.
 
 
 ## Join us on the journey to becoming a baking master, one class at a time! 🍩🍓
